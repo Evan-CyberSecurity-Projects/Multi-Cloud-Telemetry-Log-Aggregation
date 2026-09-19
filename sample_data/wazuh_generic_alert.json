@@ -1,0 +1,13 @@
+{
+  "@timestamp": "2026-09-19T03:02:00.000Z",
+  "agent": {
+    "name": "Windows-wazuh",
+    "ip": "10.0.2.15"
+  },
+  "rule": {
+    "id": "100001",
+    "level": 3,
+    "description": "Generic Windows event"
+  },
+  "location": "EventChannel"
+}
