@@ -1,0 +1,13 @@
+{
+  "@timestamp": "2026-09-19T02:10:00.000Z",
+  "agent": {
+    "name": "Windows-wazuh",
+    "ip": "10.0.2.15"
+  },
+  "rule": {
+    "id": "92219",
+    "level": 6,
+    "description": "Possible DLL search order hijack"
+  },
+  "location": "EventChannel"
+}
