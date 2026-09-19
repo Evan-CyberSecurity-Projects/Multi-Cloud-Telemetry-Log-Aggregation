@@ -1,0 +1,11 @@
+{
+  "eventTimestamp": "2026-09-19T02:01:00Z",
+  "caller": "analyst@example.com",
+  "operationName": {
+    "value": "Microsoft.Authorization/roleAssignments/write"
+  },
+  "status": {
+    "value": "Succeeded"
+  },
+  "resourceId": "/subscriptions/11111111-1111-1111-1111-111111111111/resourceGroups/rg-telemetry-lab"
+}
