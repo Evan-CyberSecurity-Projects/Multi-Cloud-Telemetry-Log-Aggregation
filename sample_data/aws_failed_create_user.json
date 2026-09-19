@@ -1,0 +1,9 @@
+{
+  "eventTime": "2026-09-19T02:00:00Z",
+  "eventSource": "iam.amazonaws.com",
+  "eventName": "CreateUser",
+  "errorCode": "AccessDenied",
+  "userIdentity": {
+    "arn": "arn:aws:iam::111122223333:root"
+  }
+}
