@@ -1,0 +1,9 @@
+{
+  "eventTime": "2026-09-19T03:00:00Z",
+  "eventSource": "signin.amazonaws.com",
+  "eventName": "ConsoleLogin",
+  "userIdentity": {
+    "arn": "arn:aws:iam::111122223333:root"
+  },
+  "sourceIPAddress": "203.0.113.30"
+}
